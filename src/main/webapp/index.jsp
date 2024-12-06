@@ -12,7 +12,7 @@
 <img alt="" src="zippy.png">
 <h3>
 
-This is a Java App deployed by Ansible on <%out.println(System.getProperty("os.name"));%> at <%= (new java.util.Date()).toLocaleString()%> for ZippyOPS Demo
+This is a Jenkins Java App deployed by Ansible on <%out.println(System.getProperty("os.name"));%> at <%= (new java.util.Date()).toLocaleString()%> for ZippyOPS Demo
 </h3>
 </center>
 </body>
