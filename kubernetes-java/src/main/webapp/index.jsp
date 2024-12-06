@@ -11,8 +11,7 @@
 <h1>This is a devops Training Application for Optum held on 29th Nov<h1>
 <img alt="" src="zippy.png">
 <h4>
-
-This is a Java App deployed by  Kubernetes on  <%out.println(System.getProperty("os.name"));%> at <%= (new java.util.Date()).toLocaleString()%> for Demo.
+This is a Jenkins Java App deployed by  Kubernetes on  <%out.println(System.getProperty("os.name"));%> at <%= (new java.util.Date()).toLocaleString()%> for Demo.
 </h4>
 </center>
 </body>
